@@ -21,9 +21,9 @@
 #
 # Generating an npm auth token:
 #   $ npm adduser
-#       Username: hyperledger-sawtooth
+#       Username: sawtooth
 #       Password:
-#       Email: (this IS public) distributedledger@intel.com
+#       Email: (this IS public) unknown@unknown
 #   $ cat ~/.npmrc
 #       (copy the text after "authToken=" on the first line)
 #
